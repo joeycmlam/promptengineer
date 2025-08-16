@@ -1,5 +1,5 @@
 Review this code for:
-- SOLID principle adherence but not over enginning
+- SOLID principle adherence but not over-enginning
 - Security vulnerabilities (SQL injection, XSS, etc.)
 - Performance implications
 - Testability
