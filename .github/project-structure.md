@@ -26,8 +26,7 @@ project-root/
 │   └── package.json
 ├── database/
 │   ├── migrations/
-│   ├── seeds/
-│   └── stored-procedures/
+│   ├── seeds/ 
 ├── e2e-tests/
 │   ├── features/
 │   ├── step-definitions/

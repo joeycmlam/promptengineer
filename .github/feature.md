@@ -3,7 +3,8 @@ I'm working on a financial services application with:
 - Frontend: ReactJS with TypeScript
 - Backend: Node.js with TypeScript
 - Database: SQL Server Managed Instance
-- Testing: Cucumber BDD
+- Feature Testing: Cucumber BDD
+- Unit Testing: Jest
 
 # Task
 Create a [specific feature] that:
